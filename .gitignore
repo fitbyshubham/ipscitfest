@@ -1,0 +1,17 @@
+# Generated output. `node build.mjs` renders ./site from ./data + ./assets, so
+# the rendered pages are a build artifact, not source. The generator and the
+# data file are the project.
+/site/
+
+# Original photographs, straight off the camera: full size and carrying EXIF
+# (camera, date, sometimes location). tools/portraits.py turns them into the
+# resized, metadata-free copies in assets/people/, which are what gets committed.
+/Mugshots/
+
+# Editor / tooling
+.claude/
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+node_modules/
