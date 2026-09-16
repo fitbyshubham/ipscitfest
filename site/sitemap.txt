@@ -1,0 +1,16 @@
+
+committee.html
+events.html
+events/algorithm-challenge.html
+events/brinkmanship.html
+events/build-different.html
+events/hackathon.html
+events/half-life.html
+events/it-quiz.html
+events/terra-incognita.html
+events/the-black-box.html
+faq.html
+registration.html
+resources.html
+rules.html
+schedule.html
